@@ -5,7 +5,7 @@ keywords: Hexo, Gruntjs, Nodejs, Reactjs, Vuejs
 # Header
 page_background: \background.jpg
 page_menu_button: dark
-post_background: \backgrounds.png
+post_background: \post-back.jpg
 post_menu_button: light
 title_plancehold: 随笔
 author:
